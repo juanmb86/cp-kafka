@@ -1,4 +1,4 @@
-FROM confluentinc/cp-kafka bash
+FROM confluentinc/cp-kafka
 
 COPY . .
 
