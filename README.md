@@ -1,2 +1,2 @@
 # cp-kafka
-Kafka + metricbeat
+Kafka + metricbeat.
